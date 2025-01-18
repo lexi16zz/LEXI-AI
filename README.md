@@ -1,4 +1,4 @@
-#Lexi16z ($LEXI) - 尖端人工智能框架
+# Lexi16z ($LEXI) - 尖端人工智能框架
 
 **Lexi16z ($LEXI)** 是一个去中心化人工智能代理组，它将量子计算原理与机器学习相结合，彻底改变决策和智能研究。
 
@@ -14,6 +14,8 @@
 ## 项目概述
 
 Lexi16z（$LEXI）通过利用量子叠加和纠缠增强系统实时解决复杂问题的能力，使智能体能够同时处理多种可能性。系统架构包括量子层、代理层、混合集成层、推理阶段、输出模块以及安全隐私层。
+![LEXI16Z](https://raw.githubusercontent.com/lexi16zz/LEXI-AI/refs/heads/main/Lexi.png)
+
 
 ## 系统架构
 
