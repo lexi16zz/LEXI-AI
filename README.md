@@ -32,11 +32,11 @@ Lexi16z（$LEXI）通过利用量子叠加和纠缠增强系统实时解决复�
 
 1. 克隆仓库:
     ```bash
-    git clone https://github.com/YourUsername/meixi-ai.git
+    git clone https://github.com/lexi16zz/LEXI-AI.git
     ```
 2. 进入项目目录:
     ```bash
-    cd meixi-ai
+    cd LEXI-AI
     ```
 3. 安装依赖:
     ```bash
